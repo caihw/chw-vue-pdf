@@ -21,8 +21,8 @@
   "homepage": "https://github.com/caihw/chw-vue-pdf.git#readme",
   "dependencies": {
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
-    "loader-utils": "^1.2.3",
-    "pdfjs-dist": "2.0.943",
+    "loader-utils": "^3.2.1",
+    "pdfjs-dist": "2.16.105",
     "raw-loader": "^0.5.1",
     "vue-resize-sensor": "^2.0.0"
   }
